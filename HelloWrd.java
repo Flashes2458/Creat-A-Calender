@@ -1,4 +1,3 @@
-'''
 
 import java.time.LocalDate;
 
@@ -25,5 +24,3 @@ public class HelloWrd {
         }
     }
 }
-
-'''
